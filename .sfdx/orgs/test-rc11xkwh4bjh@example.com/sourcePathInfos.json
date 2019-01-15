@@ -1,0 +1,270 @@
+[
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask",
+        {
+            "state": "n",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547571843696,
+            "changeTime": 1547571843696,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547571843697,
+            "changeTime": 1547571843697,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547571966670,
+            "changeTime": 1547571966670,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547571843697,
+            "changeTime": 1547571843697,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT",
+        {
+            "state": "n",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547571956322,
+            "changeTime": 1547571956322,
+            "contentHash": "91cacc3bf564e1d26da505a9173bd08abc57d57b",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\objects\\Contact\\fields\\Child_Contacts__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\objects\\Contact\\fields\\Child_Contacts__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 408,
+            "modifiedTime": 1547571966643,
+            "changeTime": 1547571966643,
+            "contentHash": "840078ff6f8403696a8c356ae966b0d977b769f3"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\objects\\Contact\\fields\\Parent_Contact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\objects\\Contact\\fields\\Parent_Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 520,
+            "modifiedTime": 1547571966645,
+            "changeTime": 1547571966645,
+            "contentHash": "9c8ae3a568845a208cbda8dd97e44e91e20c2f11"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9970,
+            "modifiedTime": 1547571966652,
+            "changeTime": 1547571966652,
+            "contentHash": "f74ec9d7ca01f472be9279c8664fbd78df9677fe"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9970,
+            "modifiedTime": 1547571966657,
+            "changeTime": 1547571966657,
+            "contentHash": "1e9f86cda2641cb1838aa6f5ebc4776107f3ccaf"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9679,
+            "modifiedTime": 1547571966664,
+            "changeTime": 1547571966664,
+            "contentHash": "5ba7064cfe9419f821a81294095814e01c8f2b89"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9994,
+            "modifiedTime": 1547571966668,
+            "changeTime": 1547571966668,
+            "contentHash": "8f7a1b5b213d09b0ed89ebc8d4afeb62cd9aac4b"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5098,
+            "modifiedTime": 1547571966672,
+            "changeTime": 1547571966672,
+            "contentHash": "b53a89e71b095482d7b9904030bab9368a28b89a"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18282,
+            "modifiedTime": 1547571966683,
+            "changeTime": 1547571966683,
+            "contentHash": "783dacb9c17c0f6c973371db3f05e4156ab1c25b"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4758,
+            "modifiedTime": 1547571966690,
+            "changeTime": 1547571966690,
+            "contentHash": "32e09bc8a321fa760ca23fcca442ffd215c00627"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4762,
+            "modifiedTime": 1547571966693,
+            "changeTime": 1547571966693,
+            "contentHash": "64bf31e4d379a1c07707bd2dbdd5c9ffb3a90c6c"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547571966644,
+            "changeTime": 1547571966644,
+            "contentHash": "08173fcc3aae24f5ca4fa0a8f37485a7b7b33e15"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\objects\\Contact",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547571966642,
+            "changeTime": 1547571966642,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547571966641,
+            "changeTime": 1547571966641,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547571966668,
+            "changeTime": 1547571966668,
+            "contentHash": "0b3377b47f1f123cebb2bb17d44827d3b828a1bf"
+        }
+    ],
+    [
+        "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\EugeneRusalevTask\\config\\ERT\\EuRusTask\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547571966693,
+            "changeTime": 1547571966693,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
